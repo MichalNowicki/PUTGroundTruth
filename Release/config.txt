@@ -1,0 +1,11 @@
+// Server's IP
+150.254.47.137
+// Addional camera [ >0 - none, >=0 number of camera slot ]
+-1
+// Camera width
+800
+// Camera height
+600
+// xSense (start the xSense first !) 1 or -1
+-1
+
